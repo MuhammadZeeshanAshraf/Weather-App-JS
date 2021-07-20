@@ -33,8 +33,8 @@ temperature, wind and humidity. This App utilize different technology for achiev
 
 ### 3. Links:
 
-- Weather App
-- Internal API
+- Weather App[Weather App](https://mi-linux.wlv.ac.uk/~1824199/)
+- Internal API[Internal API](https://mi-linux.wlv.ac.uk/~1824199/weater-api.php?city=london)
 
 ### 5. Architecture Strengths:
 
